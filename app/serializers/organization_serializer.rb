@@ -1,3 +1,3 @@
 class OrganizationSerializer < ActiveModel::Serializer
-  attributes :id, :name, :user_name, :password_digest
+  attributes :id, :name, :user_name
 end
